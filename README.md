@@ -1,2 +1,2 @@
 # OPHMod
-Opera Handler Mod *Free Browsing On Safaricom
+Function hooked Opera Handler app for free internet Browsing On Safaricom network.
